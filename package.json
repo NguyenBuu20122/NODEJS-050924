@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-050924",
+  "version": "1.0.0",
+  "description": "Thuc hanh node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NguyenBuu20122/NODEJS-050924.git"
+  },
+  "keywords": [
+    "NODEJS",
+    "REACT"
+  ],
+  "author": "NGUYEN BUU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenBuu20122/NODEJS-050924/issues"
+  },
+  "homepage": "https://github.com/NguyenBuu20122/NODEJS-050924#readme",
+  "dependencies": {
+    "express": "4.19.2"
+  }
+}
